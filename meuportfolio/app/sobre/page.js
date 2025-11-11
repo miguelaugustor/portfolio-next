@@ -32,12 +32,6 @@ export default function Home() {
         <h2>Olá, eu sou Miguel Augusto</h2>
         <p>Desenvolvedor Web apaixonado por tecnologia e aprendizado.</p>
 
-        <h3>Frase do dia:</h3>
-        <blockquote style={{ fontStyle: 'italic', color: '#cbd5e1' }}>
-          {quote || 'Carregando...'}
-        </blockquote>
-      </main>
-
       <footer>© 2025 - Feito com Next.js </footer>
     </>
   );
