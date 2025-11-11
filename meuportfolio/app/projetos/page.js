@@ -17,9 +17,6 @@ export default function Projetos() {
           <li>
             <strong>Portfólio Pessoal</strong> — Este próprio site feito em Next.js.
           </li>
-          <li>
-            <strong>Projeto X</strong> — Aplicação que consome uma API pública.
-          </li>
         </ul>
       </main>
 
