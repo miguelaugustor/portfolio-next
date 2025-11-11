@@ -32,6 +32,8 @@ export default function Home() {
         <h2>Olá, eu sou Miguel Augusto</h2>
         <p>Desenvolvedor Web apaixonado por tecnologia e aprendizado.</p>
 
+      </main>
+
       <footer>© 2025 - Feito com Next.js </footer>
     </>
   );
